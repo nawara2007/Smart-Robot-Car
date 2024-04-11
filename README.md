@@ -6,7 +6,7 @@
 ### Features in this project:
  1. A robot car controlled with ir remote control.
  2. Mode1 --> Obstacle avoidance by always going forward unless something is sensed near to the car
-              by the ultrasonic sensor so it deceide to turn in wich direction by sensing the distance
+              by the ultrasonic sensor so it decide to turn in which direction by sensing the distance
               on the left and the right of the car and go in the more distant space direction.
  3. Mode2 --> Line tracking by sensing a dark line under the car by 3 line tracking modules
 

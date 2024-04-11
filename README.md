@@ -35,6 +35,9 @@
  3. [Servo](https://github.com/arduino-libraries/Servo)
  4. [NewPing](https://github.com/eliteio/Arduino_New_Ping)
 
+### IR remote key bindings
+![Key Bindings](https://github.com/nawara2007/Smart-Robot-Car/assets/138627794/51ce0d27-a63a-44e9-be0d-8003e73a2f4a)
+
 ### A Test video
 
 https://github.com/nawara2007/Smart-Robot-Car/assets/138627794/f411e45a-7b1b-464e-b3d1-851a03d6b008

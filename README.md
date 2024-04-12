@@ -13,7 +13,7 @@
 ### What is in this repository
  1. The schematic for the project
  2. A simulation project on proteus for it
- 3. The libraries used in proteus for simulation : IRX (For infrared remote), InfraredTrackerSensorTEP( fro line tracking module)
+ 3. The libraries used in proteus for simulation : IRX (For infrared remote), InfraredTrackerSensorTEP( for line tracking module)
  4. The source code written by me for this project
  
 ### Used components:
